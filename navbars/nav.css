@@ -1,0 +1,12 @@
+.navbar{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 20px;
+}
+.account , .contact{
+    display: flex;
+    flex-direction: row;
+    column-gap: 20px;
+
+}
